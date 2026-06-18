@@ -4,7 +4,7 @@
 
 ❓ 영화제별로 보고 싶은 영화를 등록하고, 시간이 겹치지 않게 나만의 시간표를 짜는 웹 앱입니다.
 
-🔗 https://ruiyamanobe.github.io/film-time/film-time.html
+🔗 https://ruiyamanobe.github.io/film-time/film-time.html 
 
 ❤️ 주요 기능
 
